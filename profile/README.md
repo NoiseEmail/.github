@@ -1,6 +1,5 @@
 
 🔒 Welcome to Noise Email! We're an encrypted, pay-as-you-go email service. 
-Our name comes from our use of the [Noise Protocol](https://noiseprotocol.org/noise.html), a secure communications framework. 
 
 Our philosophy is simple: if we can't read your emails, no one but you can. 
 Your privacy is our priority. 
